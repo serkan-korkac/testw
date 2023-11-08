@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "products",
     "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "validations": {},
+    "options": {},
+    "componentId": "multi-line-text",
+    "modelId": "products",
+    "fieldType": "string"
   }
 ]
