@@ -16,5 +16,14 @@
     "componentId": "single-line-text",
     "modelId": "dsadsd",
     "fieldType": "array"
+  },
+  {
+    "name": "fsdfsdfsdf",
+    "fieldId": "fsdfsdfsdf",
+    "validations": {},
+    "options": {},
+    "componentId": "date",
+    "modelId": "dsadsd",
+    "fieldType": "date"
   }
 ]
