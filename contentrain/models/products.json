@@ -16,5 +16,22 @@
     "componentId": "multi-line-text",
     "modelId": "products",
     "fieldType": "string"
+  },
+  {
+    "name": "dfgdfgdfg",
+    "fieldId": "dfgdfgdfg",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "checkbox": {
+            "value": true
+          }
+        }
+      }
+    },
+    "componentId": "checkbox",
+    "modelId": "products",
+    "fieldType": "boolean"
   }
 ]
