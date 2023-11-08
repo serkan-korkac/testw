@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "dsadsd",
     "fieldType": "string"
+  },
+  {
+    "name": "fsdfdsf",
+    "fieldId": "fsdfdsf",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "dsadsd",
+    "fieldType": "array"
   }
 ]
