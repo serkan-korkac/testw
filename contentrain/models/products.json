@@ -1,0 +1,11 @@
+[
+  {
+    "name": "name",
+    "fieldId": "name",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "products",
+    "fieldType": "string"
+  }
+]
