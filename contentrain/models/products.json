@@ -68,5 +68,13 @@
     "componentId": "percent",
     "modelId": "products",
     "fieldType": "number"
+  },
+  {
+    "name": "sdadsdds-1",
+    "fieldId": "sdadsdds-1",
+    "modelId": "products",
+    "componentId": "rating",
+    "validations": {},
+    "options": {}
   }
 ]
