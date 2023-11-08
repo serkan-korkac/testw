@@ -59,5 +59,14 @@
     "componentId": "rating",
     "modelId": "products",
     "fieldType": "number"
+  },
+  {
+    "name": "adsdasdasd",
+    "fieldId": "adsdasdasd",
+    "validations": {},
+    "options": {},
+    "componentId": "percent",
+    "modelId": "products",
+    "fieldType": "number"
   }
 ]
