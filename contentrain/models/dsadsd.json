@@ -9,15 +9,6 @@
     "fieldType": "string"
   },
   {
-    "name": "fsdfdsf",
-    "fieldId": "fsdfdsf",
-    "validations": {},
-    "options": {},
-    "componentId": "single-line-text",
-    "modelId": "dsadsd",
-    "fieldType": "array"
-  },
-  {
     "name": "fsdfsdfsdf",
     "fieldId": "fsdfsdfsdf",
     "validations": {},
