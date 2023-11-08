@@ -33,5 +33,14 @@
     "componentId": "checkbox",
     "modelId": "products",
     "fieldType": "boolean"
+  },
+  {
+    "name": "rtertert",
+    "fieldId": "rtertert",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "products",
+    "fieldType": "array"
   }
 ]
