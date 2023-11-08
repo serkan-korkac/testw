@@ -50,5 +50,14 @@
     "componentId": "switch",
     "modelId": "products",
     "fieldType": "boolean"
+  },
+  {
+    "name": "sdadsdds",
+    "fieldId": "sdadsdds",
+    "validations": {},
+    "options": {},
+    "componentId": "rating",
+    "modelId": "products",
+    "fieldType": "number"
   }
 ]
