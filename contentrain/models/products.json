@@ -42,5 +42,13 @@
     "componentId": "single-line-text",
     "modelId": "products",
     "fieldType": "array"
+  },
+  {
+    "name": "dasdasd",
+    "fieldId": "dasdasd",
+    "options": {},
+    "componentId": "switch",
+    "modelId": "products",
+    "fieldType": "boolean"
   }
 ]
