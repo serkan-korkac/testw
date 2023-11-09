@@ -7,5 +7,14 @@
     "componentId": "decimal",
     "modelId": "adsdasdasd",
     "fieldType": "number"
+  },
+  {
+    "name": "fsdfdsf",
+    "fieldId": "fsdfdsf",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "adsdasdasd",
+    "fieldType": "number"
   }
 ]
