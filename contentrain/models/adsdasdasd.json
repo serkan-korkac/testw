@@ -24,5 +24,14 @@
     "componentId": "checkbox",
     "modelId": "adsdasdasd",
     "fieldType": "boolean"
+  },
+  {
+    "name": "fdsfdsfdsffdsf",
+    "fieldId": "fdsfdsfdsffdsf",
+    "validations": {},
+    "options": {},
+    "componentId": "media",
+    "modelId": "adsdasdasd",
+    "fieldType": "media"
   }
 ]
