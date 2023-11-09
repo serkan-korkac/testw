@@ -16,5 +16,13 @@
     "componentId": "integer",
     "modelId": "adsdasdasd",
     "fieldType": "number"
+  },
+  {
+    "name": "fdsfdsfdsf",
+    "fieldId": "fdsfdsfdsf",
+    "options": {},
+    "componentId": "checkbox",
+    "modelId": "adsdasdasd",
+    "fieldType": "boolean"
   }
 ]
